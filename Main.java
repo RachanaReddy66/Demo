@@ -8,6 +8,7 @@ public statis void main (String[] args){
    System.out.println("Sub method");
    }
    Public void mul(){
+   System.out.println("Multiply method");
 
    }
 }
