@@ -1,4 +1,5 @@
 Public class Main{
+int a;
 public statis void main (String[] args){
  System.out.println("this is Main ");
    Public void add(){
@@ -10,7 +11,7 @@ public statis void main (String[] args){
    Public void mul(){
    System.out.println(" method");
    }
-      System.out.println("Hey Rachana");
+
    
 }
 }
