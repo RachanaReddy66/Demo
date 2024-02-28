@@ -11,5 +11,7 @@ public statis void main (String[] args){
    System.out.println("Multiply method");
 
    }
+      System.out.println("Hii");
+   
 }
 }
