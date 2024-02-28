@@ -7,5 +7,8 @@ public statis void main (String[] args){
    Public void sub(){
    System.out.println("Sub method");
    }
+   Public void mul(){
+
+   }
 }
 }
