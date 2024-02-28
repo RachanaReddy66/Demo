@@ -1,5 +1,4 @@
 Public class Main{
-int a;
 public statis void main (String[] args){
  System.out.println("this is Main ");
    Public void add(){
@@ -9,10 +8,10 @@ public statis void main (String[] args){
    System.out.println("Sub method");
    }
    Public void mul(){
-   System.out.println("Multiply method");
-
+   System.out.println(" method");
    }
-
+   
+      System.out.println("Hii");
    
 }
 }
