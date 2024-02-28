@@ -5,6 +5,7 @@ public statis void main (String[] args){
     System.out.println("Add Method ");
    }
    Public void sub(){
+   System.out.println("Sub method");
    }
 }
 }
