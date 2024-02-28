@@ -9,7 +9,8 @@ public statis void main (String[] args){
    }
    Public void mul(){
    System.out.println(" method");
-
    }
+      System.out.println("Hey");
+   
 }
 }
